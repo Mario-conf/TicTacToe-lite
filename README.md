@@ -1,4 +1,4 @@
-## Tic-Tac-Toe Game
+## Tic-Tac-Toe lite
 
 ---
 
@@ -38,7 +38,7 @@ We welcome your contributions! Also, follow me on my social media to support thi
 
 ---
 
-## Juego de Tres en Línea
+## Tres en Línea lite
 
 ---
 
